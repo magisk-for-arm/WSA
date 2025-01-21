@@ -12,4 +12,3 @@ This project uses [GitHub Issues][gh-issue] to track bugs. Please search the exi
 Support for Windows Subsystem for Android is limited to the resources listed above.
 
 [gh-issue]: https://github.com/microsoft/WSA/issues
-[gh-bug]: https://github.com/microsoft/WSA/issues/new?assignees=&labels=Issue-Bug%2CTriage-Needed&template=bug_report.yml
